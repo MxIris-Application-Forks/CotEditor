@@ -1,7 +1,7 @@
 # macOS
 .DS_Store
 
-## Xcode
+# Xcode
 [Bb]uild
 xcuserdata/
 *.xccheckout
@@ -11,3 +11,4 @@ default.profraw
 # Swift Package Manager
 .build
 .swiftpm
+Packages/*/Package.resolved
